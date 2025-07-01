@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+    padding: 30px;
+}
+h1 {
+    color: #0077cc;
+}
+ul {
+    list-style: square;
+}
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #0066aa;
+}
